@@ -34,5 +34,5 @@ frontend-разработку, планирую дальше развивать�
 
 | Проекты       | Описание          | Технологии  | Ссылка |
 | ------------- | ----------------- | ----------- | ---------------- |
-| [Blanchard]([https://github.com/unknown-mann/chatty-mui](https://gitlab.skillbox.ru/sherkhan_amangeldy/weblayout.git)) | картинная галерея | Front: Swiper.js, Accordion| [Blanchard](https:) |
+| [Blanchard]([https://github.com/unknown-mann/chatty-mui](https://gitlab.skillbox.ru/sherkhan_amangeldy/weblayout.git)) | Картинная галерея | Front: Swiper.js, Accordion| [Blanchard](https:) |
 
