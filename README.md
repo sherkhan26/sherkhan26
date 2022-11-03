@@ -34,5 +34,7 @@ frontend-разработку, планирую дальше развивать�
 
 | Проекты       | Описание          | Технологии  | Ссылка |
 | ------------- | ----------------- | ----------- | ---------------- |
-| [Blanchard] | Картинная галерея | Front: Swiper.js, Accordion| [Blanchard]([https://github.com/sherkhan26/blanchard-gallery]) |
-
+| Портфолио | Мое личное портфолио (http://ci92877.tmweb.ru/) в котором представлены некоторые из моих проектов на github, а также мое резюме и технические навыки. |  React, React Router, JavaScript | [Portfolio](https://github.com/sherkhan26/portfolio-first) |
+| Star Wars API | Приложение с использованием Star Wars API | React, React Router, Context API, React HOC, JavaScript | [StarWars](https://github.com/sherkhan26/starWars) |
+| SRM | Система управление контактами данными клиентов  | NodeJS, JavaScript, Bootstrap| [SKB](https://github.com/sherkhan26/SRMonlyJS) |
+| Blanchard | Картинная галерея | Front: Swiper.js, Accordion| [Blanchard](https://github.com/sherkhan26/blanchard-gallery) |
